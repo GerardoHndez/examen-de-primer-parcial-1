@@ -1,0 +1,20 @@
+{
+  "name": "examen1",
+  "version": "1.0.0",
+  "description": "examen de primer parcial ",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "author": "Alan Luis Gerardo Hernandez Meza",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.0",
+    "git": "^0.1.5",
+    "init": "^0.1.2",
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
